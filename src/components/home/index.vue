@@ -1,10 +1,12 @@
 <template>
-    <div></div>
+    <div>
+      总有
+    </div>
 </template>
 
 <script>
     export default {
-        name: "left3"
+        name: "index"
     }
 </script>
 

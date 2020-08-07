@@ -4,7 +4,7 @@
 
 <script>
     export default {
-        name: "left3"
+        name: "center2"
     }
 </script>
 

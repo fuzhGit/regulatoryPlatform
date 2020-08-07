@@ -1,8 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Visualization from '@/components/home/visualization'
-import Construction from '@/components/construction/nav'
-// import Map from '@/components/map'
+import Home from '@/components/home/index'
 
 Vue.use(Router)
 
@@ -10,13 +8,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'Visualization',
-      component: Visualization
+      name: 'Home',
+      component: Home
     },
-    {
-      path: '/construction',
-      name: 'construction',
-      component: Construction
-    }
   ]
 })

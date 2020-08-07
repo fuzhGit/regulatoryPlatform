@@ -4,7 +4,7 @@
 
 <script>
     export default {
-        name: "left3"
+        name: "right1"
     }
 </script>
 
