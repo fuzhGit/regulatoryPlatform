@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [6.0.1](https://github.com/fuzhGit/regulatoryPlatform/compare/v6.0.0...v6.0.1) (2022-07-12)
+
+
+### Bug Fixes
+
+* bug test ([5138e89](https://github.com/fuzhGit/regulatoryPlatform/commit/5138e897cf34fcb88c391173cb83687350e1f53e))
+
 ## [6.0.0](https://github.com/fuzhGit/regulatoryPlatform/compare/v5.0.0...v6.0.0) (2022-07-12)
 
 
