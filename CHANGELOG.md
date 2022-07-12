@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://github.com/fuzhGit/regulatoryPlatform/compare/v4.0.0...v5.0.0) (2022-07-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* **major:** `xx` test
+
+### Bug Fixes
+
+* **major:** bug test ([1d97484](https://github.com/fuzhGit/regulatoryPlatform/commit/1d97484029f9694d5ae72c0f3229f011e3500227))
+
 ## [4.0.0](https://github.com/fuzhGit/regulatoryPlatform/compare/v3.0.0...v4.0.0) (2022-07-12)
 
 ## [3.0.0](https://github.com/fuzhGit/regulatoryPlatform/compare/v2.1.0...v3.0.0) (2022-07-12)
