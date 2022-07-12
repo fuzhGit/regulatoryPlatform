@@ -1,6 +1,6 @@
 {
   "name": "smart-site",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A Vue.js project",
   "author": "yanmingshuang <mingshuang.yan@valueonline.cn>",
   "private": true,
@@ -8,9 +8,7 @@
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
     "build": "node build/build.js",
-    "release:major": "npm run release -- --release-as major",
-    "release:minor": "npm run release -- --release-as minor",
-    "release:patch": "npm run release -- --release-as patch"
+    "release": "standard-version"
   },
   "dependencies": {
     "axios": "^0.19.2",
@@ -52,6 +50,7 @@
     "rimraf": "^2.6.0",
     "semver": "^5.3.0",
     "shelljs": "^0.7.6",
+    "standard-version": "^9.5.0",
     "uglifyjs-webpack-plugin": "^1.1.1",
     "url-loader": "^0.5.8",
     "vue-loader": "^13.3.0",
