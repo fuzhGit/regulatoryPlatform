@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/fuzhGit/regulatoryPlatform/compare/v1.3.0...v1.3.1) (2022-07-12)
+
+
+### Bug Fixes
+
+* bug test ([0d8d4db](https://github.com/fuzhGit/regulatoryPlatform/commit/0d8d4dbf5371b1b4338cc692cc3394e9ee9480ae))
+
 ## [1.3.0](https://github.com/fuzhGit/regulatoryPlatform/compare/v1.2.0...v1.3.0) (2022-07-12)
 
 
